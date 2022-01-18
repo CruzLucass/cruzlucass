@@ -25,6 +25,6 @@
 <a href="https://twitter.com/CruzLukao" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/lucas-cruzz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/cruzlucass/cruzlucaas/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CruzLucass/CruzLucass/blob/output/github-contribution-grid-snake.svg)
  
 </div>
