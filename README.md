@@ -6,7 +6,7 @@
 - 🔭 Atualmente trabalho com o desenvolvimento e consumo de API's Rest.
 - ⚡ Tecnologias utilizadas: .NET Core e Framework, Flutter, React, SQL Server, Firebase, entre outras.
 - 🌱 Estou no último ano da faculdade de ciência da computação e amo💕 aprender sobre novas tecnologias e ferramentas que vão contribuir para meu desenvolvimento.
-- 💬 Fique a vontade para explorar meu projetos públicos e caso surja dúvidas entre em contato pelas minha redes sociais!
+- 💬 Fique a vontade para explorar meu projetos públicos e caso surja dúvidas entre em contato pelas minhas redes sociais!
 - 😄 Meu hobby preferido é jogar CS-GO com os amigos e aquele futebol no fim de semana.
 - 👶 Vou ser papai da Júlia em breve.
 - 💢 Amo novos desafios e resolver problemas complexos.
