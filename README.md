@@ -1,4 +1,29 @@
-## Olá eu sou Lucas Cruz desenvolvedor full stack web e mobile!
+### Olá, seja bem vindo 👋
+
+#
+
+- 🚀 Sou desenvolvedor web full stack.
+- 🔭 Atualmente trabalho com o desenvolvimento e consumo de API's Rest.
+- ⚡ Tecnologias utilizadas: .NET Core e Framework, Flutter, React, SQL Server, Firebase, entre outras.
+- 🌱 Estou no último ano da faculdade de ciência da computação e amo💕 aprender sobre novas tecnologias e ferramentas que vão contribuir para meu desenvolvimento.
+- 💬 Fique a vontade para explorar meu projetos públicos e caso surja dúvidas entre em contato pelas minha redes sociais!
+- 😄 Meu hobby preferido é jogar CS-GO com os amigos e aquele futebol no fim de semana.
+- 👶 Vou ser papai da Júlia em breve.
+- 💢 Amo novos desafios e resolver problemas complexos.
+
+#
+
+ ### 🤝 Redes Sociais
+ 
+<div> 
+  <a href="https://api.whatsapp.com/send?phone=5535998670259" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/cruzlukao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/CruzLukao" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/lucas-cruzz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ 
+</div>
+
+#
 
 <div align="center">
   <a href="https://github.com/CruzLucass">
@@ -6,7 +31,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzlucass&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  ### Ferramentas e Tecnologias
+ #
+  
+  ### 💻 Ferramentas e Tecnologias
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -21,15 +48,5 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
   
-  ##
  
-<div> 
-  <a href="https://api.whatsapp.com/send?phone=5535998670259" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/cruzlukao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/CruzLukao" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/lucas-cruzz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
-</div>
 <!-- ![Snake animation](https://github.com/CruzLucass/CruzLucass/blob/output/github-contribution-grid-snake.svg) -->
