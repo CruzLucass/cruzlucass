@@ -2,7 +2,7 @@
 
 #
 
-- 🚀 Sou desenvolvedor web full stack.
+- 🚀 Sou desenvolvedor web e mobile full stack.
 - 🔭 Atualmente trabalho com o desenvolvimento e consumo de API's Rest.
 - ⚡ Tecnologias utilizadas: .NET Core e Framework, Flutter, React, SQL Server, Firebase, entre outras.
 - 🌱 Estou no último ano da faculdade de ciência da computação e amo💕 aprender sobre novas tecnologias e ferramentas que vão contribuir para meu desenvolvimento.
